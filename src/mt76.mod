@@ -1,0 +1,12 @@
+/home/pi/mt7921e-rpi-6.12.109/mmio.o
+/home/pi/mt7921e-rpi-6.12.109/util.o
+/home/pi/mt7921e-rpi-6.12.109/trace.o
+/home/pi/mt7921e-rpi-6.12.109/dma.o
+/home/pi/mt7921e-rpi-6.12.109/mac80211.o
+/home/pi/mt7921e-rpi-6.12.109/debugfs.o
+/home/pi/mt7921e-rpi-6.12.109/eeprom.o
+/home/pi/mt7921e-rpi-6.12.109/tx.o
+/home/pi/mt7921e-rpi-6.12.109/agg-rx.o
+/home/pi/mt7921e-rpi-6.12.109/mcu.o
+/home/pi/mt7921e-rpi-6.12.109/wed.o
+/home/pi/mt7921e-rpi-6.12.109/pci.o

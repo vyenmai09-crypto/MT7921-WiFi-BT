@@ -1,0 +1,1 @@
+savedcmd_/home/pi/mt7921e-rpi-6.12.109/mt76x0/mt76x0u.mod := printf '%s\n'   usb.o usb_mcu.o | awk '!x[$$0]++ { print("/home/pi/mt7921e-rpi-6.12.109/mt76x0/"$$0) }' > /home/pi/mt7921e-rpi-6.12.109/mt76x0/mt76x0u.mod

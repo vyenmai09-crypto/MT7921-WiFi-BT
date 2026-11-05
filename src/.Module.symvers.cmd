@@ -1,0 +1,1 @@
+savedcmd_/home/pi/mt7921e-rpi-6.12.109/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/pi/mt7921e-rpi-6.12.109/Module.symvers -T /home/pi/mt7921e-rpi-6.12.109/modules.order -i Module.symvers -e 

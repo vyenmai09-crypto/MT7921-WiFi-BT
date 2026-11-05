@@ -1,0 +1,1 @@
+savedcmd_/home/pi/mt7921e-rpi-6.12.109/mt7921/mt7921e.mod := printf '%s\n'   pci.o pci_mac.o pci_mcu.o | awk '!x[$$0]++ { print("/home/pi/mt7921e-rpi-6.12.109/mt7921/"$$0) }' > /home/pi/mt7921e-rpi-6.12.109/mt7921/mt7921e.mod

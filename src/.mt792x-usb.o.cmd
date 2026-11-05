@@ -1,0 +1,1 @@
+savedcmd_/home/pi/mt7921e-rpi-6.12.109/mt792x-usb.o := aarch64-linux-gnu-ld -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments   -r -o /home/pi/mt7921e-rpi-6.12.109/mt792x-usb.o @/home/pi/mt7921e-rpi-6.12.109/mt792x-usb.mod 

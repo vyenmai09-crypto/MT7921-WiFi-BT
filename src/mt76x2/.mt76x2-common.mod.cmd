@@ -1,0 +1,1 @@
+savedcmd_/home/pi/mt7921e-rpi-6.12.109/mt76x2/mt76x2-common.mod := printf '%s\n'   eeprom.o mac.o init.o phy.o mcu.o | awk '!x[$$0]++ { print("/home/pi/mt7921e-rpi-6.12.109/mt76x2/"$$0) }' > /home/pi/mt7921e-rpi-6.12.109/mt76x2/mt76x2-common.mod

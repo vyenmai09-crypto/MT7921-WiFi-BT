@@ -1,0 +1,1 @@
+savedcmd_/home/pi/mt7921e-rpi-6.12.109/mt76-connac-lib.mod := printf '%s\n'   mt76_connac_mcu.o mt76_connac_mac.o mt76_connac3_mac.o | awk '!x[$$0]++ { print("/home/pi/mt7921e-rpi-6.12.109/"$$0) }' > /home/pi/mt7921e-rpi-6.12.109/mt76-connac-lib.mod

@@ -1,0 +1,17 @@
+/home/pi/mt7921e-rpi-6.12.109/mt76.o
+/home/pi/mt7921e-rpi-6.12.109/mt76-usb.o
+/home/pi/mt7921e-rpi-6.12.109/mt76x02-lib.o
+/home/pi/mt7921e-rpi-6.12.109/mt76x02-usb.o
+/home/pi/mt7921e-rpi-6.12.109/mt76-connac-lib.o
+/home/pi/mt7921e-rpi-6.12.109/mt792x-lib.o
+/home/pi/mt7921e-rpi-6.12.109/mt792x-usb.o
+/home/pi/mt7921e-rpi-6.12.109/mt76x0/mt76x0u.o
+/home/pi/mt7921e-rpi-6.12.109/mt76x0/mt76x0-common.o
+/home/pi/mt7921e-rpi-6.12.109/mt76x2/mt76x2-common.o
+/home/pi/mt7921e-rpi-6.12.109/mt76x2/mt76x2u.o
+/home/pi/mt7921e-rpi-6.12.109/mt7921/mt7921-common.o
+/home/pi/mt7921e-rpi-6.12.109/mt7921/mt7921e.o
+/home/pi/mt7921e-rpi-6.12.109/mt7921/mt7921u.o
+/home/pi/mt7921e-rpi-6.12.109/mt7925/mt7925-common.o
+/home/pi/mt7921e-rpi-6.12.109/mt7925/mt7925e.o
+/home/pi/mt7921e-rpi-6.12.109/mt7925/mt7925u.o

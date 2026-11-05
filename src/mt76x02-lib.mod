@@ -1,0 +1,11 @@
+/home/pi/mt7921e-rpi-6.12.109/mt76x02_util.o
+/home/pi/mt7921e-rpi-6.12.109/mt76x02_mac.o
+/home/pi/mt7921e-rpi-6.12.109/mt76x02_mcu.o
+/home/pi/mt7921e-rpi-6.12.109/mt76x02_eeprom.o
+/home/pi/mt7921e-rpi-6.12.109/mt76x02_phy.o
+/home/pi/mt7921e-rpi-6.12.109/mt76x02_mmio.o
+/home/pi/mt7921e-rpi-6.12.109/mt76x02_txrx.o
+/home/pi/mt7921e-rpi-6.12.109/mt76x02_trace.o
+/home/pi/mt7921e-rpi-6.12.109/mt76x02_debugfs.o
+/home/pi/mt7921e-rpi-6.12.109/mt76x02_dfs.o
+/home/pi/mt7921e-rpi-6.12.109/mt76x02_beacon.o

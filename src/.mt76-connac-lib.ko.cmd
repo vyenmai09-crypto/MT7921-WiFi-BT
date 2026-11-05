@@ -1,0 +1,1 @@
+savedcmd_/home/pi/mt7921e-rpi-6.12.109/mt76-connac-lib.ko := aarch64-linux-gnu-ld -r -EL  -maarch64elf -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/arm64/module.lds -o /home/pi/mt7921e-rpi-6.12.109/mt76-connac-lib.ko /home/pi/mt7921e-rpi-6.12.109/mt76-connac-lib.o /home/pi/mt7921e-rpi-6.12.109/mt76-connac-lib.mod.o /home/pi/mt7921e-rpi-6.12.109/.module-common.o

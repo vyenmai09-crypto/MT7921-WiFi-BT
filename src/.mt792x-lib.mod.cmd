@@ -1,0 +1,1 @@
+savedcmd_/home/pi/mt7921e-rpi-6.12.109/mt792x-lib.mod := printf '%s\n'   mt792x_core.o mt792x_mac.o mt792x_trace.o mt792x_debugfs.o mt792x_dma.o | awk '!x[$$0]++ { print("/home/pi/mt7921e-rpi-6.12.109/"$$0) }' > /home/pi/mt7921e-rpi-6.12.109/mt792x-lib.mod

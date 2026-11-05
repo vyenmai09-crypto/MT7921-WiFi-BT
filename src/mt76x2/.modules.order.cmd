@@ -1,0 +1,1 @@
+savedcmd_/home/pi/mt7921e-rpi-6.12.109/mt76x2/modules.order := {   echo /home/pi/mt7921e-rpi-6.12.109/mt76x2/mt76x2-common.o;   echo /home/pi/mt7921e-rpi-6.12.109/mt76x2/mt76x2u.o; :; } > /home/pi/mt7921e-rpi-6.12.109/mt76x2/modules.order
